@@ -15,9 +15,11 @@ export default function Index() {
          TVQuizPhD
         </h1>
 
+      </main>
       <footer className={styles.footer}>
-         Made with <3 on
+         Made with {"<3"} on
          <a href="https://github.com/tvquizphd/test-next">
+         &nbsp; 
          Github
          </a>
       </footer>
